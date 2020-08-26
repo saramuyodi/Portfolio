@@ -1,0 +1,40 @@
+
+.emp1 {
+    grid-area: emp1;
+ }
+  
+
+ .emp2 {
+     grid-area: emp2;
+  }
+  .emp3 {
+      grid-area: emp3;
+   }
+   .emp4 {
+       grid-area: emp4;
+    }
+    .emp5 {
+        grid-area: emp5;
+     }
+     .emp6 {
+         grid-area: emp6;
+      }
+      .emp7 {
+          grid-area: emp7;
+       }
+       .emp8 {
+           grid-area: emp8;
+        }
+        .emp9 {
+            grid-area: emp9;
+         }
+  .emp10 {
+    grid-area: emp10;
+ }
+  .ourworkgrid {
+    display: grid;
+    grid-template-areas: "pic1 pic1 pic2 pic2 pic3 pic3" "pic4 pic4 pic5 pic5 pic6 pic6" "pic7 pic7 pic7 pic8 pic8 pic8";
+    background-color: #d68a8a;
+    padding: 5px; 
+}
+  
